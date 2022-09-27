@@ -1,62 +1,70 @@
 {
-  "projectName": "Hacktoberfest2022",
-  "projectOwner": "MrKrishnaAgarwal",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "contributors": [
-    {
-      "login": "MrKrishnaAgarwal",
-      "name": "Krishna Agarwal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/100597998?v=4",
-      "profile": "https://github.com/MrKrishnaAgarwal",
-      "contributions": [
-        "maintenance",
-        "code",
-        "content"
-      ]
-    },
-    {
-      "login": "Daksheshapkare",
-      "name": "Daksheshapkare",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113005270?v=4",
-      "profile": "https://github.com/Daksheshapkare",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "PrakashGatiyala",
-      "name": "Prakash Gatiyala",
-      "avatar_url": "https://avatars.githubusercontent.com/u/34413515?v=4",
-      "profile": "https://github.com/PrakashGatiyala",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "sceary-expert",
-      "name": "Dhananjoy Dey",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84634405?v=4",
-      "profile": "https://dhananjoy-dey.netlify.app/",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "devarshishimpi",
-      "name": "Devarshi Shimpi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43378923?v=4",
-      "profile": "https://stonecss.com/",
-      "contributions": [
-        "maintenance"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true
+    "projectName": "Hacktoberfest2022",
+    "projectOwner": "MrKrishnaAgarwal",
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "commit": false,
+    "contributors": [{
+            "login": "MrKrishnaAgarwal",
+            "name": "Krishna Agarwal",
+            "avatar_url": "https://avatars.githubusercontent.com/u/100597998?v=4",
+            "profile": "https://github.com/MrKrishnaAgarwal",
+            "contributions": [
+                "maintenance",
+                "code",
+                "content"
+            ]
+        },
+        {
+            "login": "Daksheshapkare",
+            "name": "Daksheshapkare",
+            "avatar_url": "https://avatars.githubusercontent.com/u/113005270?v=4",
+            "profile": "https://github.com/Daksheshapkare",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "PrakashGatiyala",
+            "name": "Prakash Gatiyala",
+            "avatar_url": "https://avatars.githubusercontent.com/u/34413515?v=4",
+            "profile": "https://github.com/PrakashGatiyala",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "sceary-expert",
+            "name": "Dhananjoy Dey",
+            "avatar_url": "https://avatars.githubusercontent.com/u/84634405?v=4",
+            "profile": "https://dhananjoy-dey.netlify.app/",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "Danuragtiwari",
+            "name": "Anurag Tiwari",
+            "avatar_url": "https://avatars.githubusercontent.com/u/86867000?s=96&v=4",
+            "profile": "https://danurag23.netlify.app/",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "devarshishimpi",
+            "name": "Devarshi Shimpi",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43378923?v=4",
+            "profile": "https://stonecss.com/",
+            "contributions": [
+                "maintenance"
+            ]
+        }
+    ],
+    "contributorsPerLine": 7,
+    "skipCi": true
 }
